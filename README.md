@@ -15,7 +15,7 @@ A multi-role, interactive revenue analytics dashboard built with Streamlit, Plot
 - [Dashboard Pages](#dashboard-pages)
 - [Data Files](#data-files)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
+
 
 ---
 
@@ -102,19 +102,7 @@ cd medilytics
 
 Or simply unzip the project folder.
 
-**2. Create a virtual environment (recommended)**
-
-```bash
-python -m venv venv
-
-# Windows
-venv\Scripts\activate
-
-# macOS / Linux
-source venv/bin/activate
-```
-
-**3. Install dependencies**
+**2. Install dependencies**
 
 ```bash
 pip install streamlit pandas plotly pillow
@@ -290,4 +278,4 @@ Three-tab deep dive into payer performance. Tab 1: payer mix and revenue trends.
 
 ---
 
-*Medilytics v2.0 — Healthcare Revenue Intelligence*
+*Medilytics — Healthcare Revenue Intelligence*
