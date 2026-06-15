@@ -278,4 +278,7 @@ Three-tab deep dive into payer performance. Tab 1: payer mix and revenue trends.
 
 ---
 
+##Deployed link 
+https://coder227h-healthcare-dashboard-app-1pyvaa.streamlit.app/
+
 *Medilytics — Healthcare Revenue Intelligence*
